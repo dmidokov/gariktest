@@ -14,3 +14,7 @@ def my_pow(n, p):
 
 def circle_square(r):
     return math.pi * r * r
+
+
+def triangle_area(a, b):
+    return a * b / 2
